@@ -6,7 +6,7 @@ with open('Readme.md', 'r', encoding='utf-8') as file:
     long_description = file.read()
 
 
-VERSION = '0.0.12'
+VERSION = '0.0.13'
 DESCRIPTION = 'Tranform regex into regexai'
 LONG_DESCRIPTION = long_description
 
